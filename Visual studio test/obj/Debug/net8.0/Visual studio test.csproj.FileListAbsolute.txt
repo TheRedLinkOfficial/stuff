@@ -1,0 +1,14 @@
+D:\Users\20241170150047\Desktop\Visual studio test\bin\Debug\net8.0\Visual studio test.exe
+D:\Users\20241170150047\Desktop\Visual studio test\bin\Debug\net8.0\Visual studio test.deps.json
+D:\Users\20241170150047\Desktop\Visual studio test\bin\Debug\net8.0\Visual studio test.runtimeconfig.json
+D:\Users\20241170150047\Desktop\Visual studio test\bin\Debug\net8.0\Visual studio test.dll
+D:\Users\20241170150047\Desktop\Visual studio test\bin\Debug\net8.0\Visual studio test.pdb
+D:\Users\20241170150047\Desktop\Visual studio test\obj\Debug\net8.0\Visual studio test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150047\Desktop\Visual studio test\obj\Debug\net8.0\Visual studio test.AssemblyInfoInputs.cache
+D:\Users\20241170150047\Desktop\Visual studio test\obj\Debug\net8.0\Visual studio test.AssemblyInfo.cs
+D:\Users\20241170150047\Desktop\Visual studio test\obj\Debug\net8.0\Visual studio test.csproj.CoreCompileInputs.cache
+D:\Users\20241170150047\Desktop\Visual studio test\obj\Debug\net8.0\Visual studio test.dll
+D:\Users\20241170150047\Desktop\Visual studio test\obj\Debug\net8.0\refint\Visual studio test.dll
+D:\Users\20241170150047\Desktop\Visual studio test\obj\Debug\net8.0\Visual studio test.pdb
+D:\Users\20241170150047\Desktop\Visual studio test\obj\Debug\net8.0\Visual studio test.genruntimeconfig.cache
+D:\Users\20241170150047\Desktop\Visual studio test\obj\Debug\net8.0\ref\Visual studio test.dll

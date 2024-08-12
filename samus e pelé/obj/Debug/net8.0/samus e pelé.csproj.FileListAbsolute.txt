@@ -1,0 +1,14 @@
+D:\Users\20241170150047\Desktop\samus e pelé\bin\Debug\net8.0\samus e pelé.exe
+D:\Users\20241170150047\Desktop\samus e pelé\bin\Debug\net8.0\samus e pelé.deps.json
+D:\Users\20241170150047\Desktop\samus e pelé\bin\Debug\net8.0\samus e pelé.runtimeconfig.json
+D:\Users\20241170150047\Desktop\samus e pelé\bin\Debug\net8.0\samus e pelé.dll
+D:\Users\20241170150047\Desktop\samus e pelé\bin\Debug\net8.0\samus e pelé.pdb
+D:\Users\20241170150047\Desktop\samus e pelé\obj\Debug\net8.0\samus e pelé.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150047\Desktop\samus e pelé\obj\Debug\net8.0\samus e pelé.AssemblyInfoInputs.cache
+D:\Users\20241170150047\Desktop\samus e pelé\obj\Debug\net8.0\samus e pelé.AssemblyInfo.cs
+D:\Users\20241170150047\Desktop\samus e pelé\obj\Debug\net8.0\samus e pelé.csproj.CoreCompileInputs.cache
+D:\Users\20241170150047\Desktop\samus e pelé\obj\Debug\net8.0\samus e pelé.dll
+D:\Users\20241170150047\Desktop\samus e pelé\obj\Debug\net8.0\refint\samus e pelé.dll
+D:\Users\20241170150047\Desktop\samus e pelé\obj\Debug\net8.0\samus e pelé.pdb
+D:\Users\20241170150047\Desktop\samus e pelé\obj\Debug\net8.0\samus e pelé.genruntimeconfig.cache
+D:\Users\20241170150047\Desktop\samus e pelé\obj\Debug\net8.0\ref\samus e pelé.dll
